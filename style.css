@@ -351,6 +351,7 @@ body .section-4 .container .social .face i{
   }
   body .home {
     display: flex;
+   justify-content:space-evenly;
     flex-direction: column;
     align-items: center;
     position: relative;
@@ -389,7 +390,7 @@ body .section-4 .container .social .face i{
     margin-right: 20px;
   }
   body .section-2 {
-    height: 150vh;
+    height: 120vh;
     margin-bottom: 50px;
   }
 
